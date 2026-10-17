@@ -1,0 +1,290 @@
+[
+  {
+    "repo": "deezer/spleeter",
+    "category": "ai",
+    "description": "Music source separation library with pretrained models.",
+    "license": "MIT",
+    "verified": "2026-10-18",
+    "last_commit": "2026-06-18"
+  },
+  {
+    "repo": "facebookresearch/audiocraft",
+    "category": "ai",
+    "description": "Library for audio and music generation research. Check model licenses.",
+    "license": "MIT",
+    "verified": "2026-10-18",
+    "last_commit": "2026-03-03"
+  },
+  {
+    "repo": "openai/whisper",
+    "category": "ai",
+    "description": "General-purpose speech recognition model.",
+    "license": "MIT",
+    "verified": "2026-10-18",
+    "last_commit": "2026-08-31"
+  },
+  {
+    "repo": "spotify/basic-pitch",
+    "category": "ai",
+    "description": "Lightweight audio to MIDI converter.",
+    "license": "Apache-2.0",
+    "verified": "2026-10-18",
+    "last_commit": "2025-11-13"
+  },
+  {
+    "repo": "Ardour/ardour",
+    "category": "daw",
+    "description": "Digital audio workstation for recording, editing and mixing.",
+    "license": "NOASSERTION",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-16"
+  },
+  {
+    "repo": "audacity/audacity",
+    "category": "daw",
+    "description": "Free, cross-platform audio editor and recorder.",
+    "license": "NOASSERTION",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-16"
+  },
+  {
+    "repo": "LMMS/lmms",
+    "category": "daw",
+    "description": "Cross-platform music production software.",
+    "license": "GPL-2.0",
+    "verified": "2026-10-18",
+    "last_commit": "2026-09-27"
+  },
+  {
+    "repo": "Tracktion/tracktion_engine",
+    "category": "daw",
+    "description": "Open-source audio engine for building DAWs.",
+    "license": "NOASSERTION",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-16"
+  },
+  {
+    "repo": "zrythm/zrythm",
+    "category": "daw",
+    "description": "Highly automated, modern digital audio workstation.",
+    "license": "NOASSERTION",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-13"
+  },
+  {
+    "repo": "FFmpeg/FFmpeg",
+    "category": "lib",
+    "description": "Mirror of the FFmpeg multimedia framework.",
+    "license": "NOASSERTION",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-17"
+  },
+  {
+    "repo": "jiaaro/pydub",
+    "category": "lib",
+    "description": "Manipulate audio with a simple, easy high-level interface.",
+    "license": "MIT",
+    "verified": "2026-10-18",
+    "last_commit": "2026-03-19"
+  },
+  {
+    "repo": "librosa/librosa",
+    "category": "lib",
+    "description": "Python package for music and audio analysis.",
+    "license": "ISC",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-06"
+  },
+  {
+    "repo": "mackron/miniaudio",
+    "category": "lib",
+    "description": "Single-file audio playback and capture library.",
+    "license": "NOASSERTION",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-05"
+  },
+  {
+    "repo": "mido/mido",
+    "category": "lib",
+    "description": "MIDI objects for Python.",
+    "license": "MIT",
+    "verified": "2026-10-18",
+    "last_commit": "2026-09-16"
+  },
+  {
+    "repo": "MTG/essentia",
+    "category": "lib",
+    "description": "C++ library for audio and music analysis.",
+    "license": "AGPL-3.0",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-14"
+  },
+  {
+    "repo": "spatialaudio/python-sounddevice",
+    "category": "lib",
+    "description": "Play and record sound with Python.",
+    "license": "MIT",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-09"
+  },
+  {
+    "repo": "Tonejs/Tone.js",
+    "category": "lib",
+    "description": "Web Audio framework for interactive music in the browser.",
+    "license": "MIT",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-17"
+  },
+  {
+    "repo": "xiph/opus",
+    "category": "lib",
+    "description": "Modern audio codec.",
+    "license": "NOASSERTION",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-17"
+  },
+  {
+    "repo": "overtone/overtone",
+    "category": "live",
+    "description": "Collaborative programmable music.",
+    "license": "NOASSERTION",
+    "verified": "2026-10-18",
+    "last_commit": "2026-01-24"
+  },
+  {
+    "repo": "sonic-pi-net/sonic-pi",
+    "category": "live",
+    "description": "Code-based music creation and performance tool.",
+    "license": "NOASSERTION",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-16"
+  },
+  {
+    "repo": "supercollider/supercollider",
+    "category": "live",
+    "description": "Platform for audio synthesis and algorithmic composition.",
+    "license": "GPL-3.0",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-16"
+  },
+  {
+    "repo": "calf-studio-gear/calf",
+    "category": "plugin",
+    "description": "Set of open-source audio plugins.",
+    "license": "LGPL-2.1",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-13"
+  },
+  {
+    "repo": "free-audio/clap",
+    "category": "plugin",
+    "description": "CLAP audio plugin standard.",
+    "license": "MIT",
+    "verified": "2026-10-18",
+    "last_commit": "2026-09-14"
+  },
+  {
+    "repo": "juce-framework/JUCE",
+    "category": "plugin",
+    "description": "Cross-platform C++ framework for audio apps and plugins.",
+    "license": "NOASSERTION",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-17"
+  },
+  {
+    "repo": "lv2/lv2",
+    "category": "plugin",
+    "description": "Extensible audio plugin standard.",
+    "license": "ISC",
+    "verified": "2026-10-18",
+    "last_commit": "2026-04-10"
+  },
+  {
+    "repo": "steinbergmedia/vst3sdk",
+    "category": "plugin",
+    "description": "VST 3 plugin SDK.",
+    "license": "MIT",
+    "verified": "2026-10-18",
+    "last_commit": "2026-08-11"
+  },
+  {
+    "repo": "AzuraCast/AzuraCast",
+    "category": "podcast",
+    "description": "Self-hosted web radio management suite.",
+    "license": "AGPL-3.0",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-17"
+  },
+  {
+    "repo": "libretime/libretime",
+    "category": "podcast",
+    "description": "Open-source radio broadcasting software.",
+    "license": "AGPL-3.0",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-16"
+  },
+  {
+    "repo": "mixxxdj/mixxx",
+    "category": "podcast",
+    "description": "Free DJ software.",
+    "license": "NOASSERTION",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-17"
+  },
+  {
+    "repo": "lilypond/lilypond",
+    "category": "score",
+    "description": "Music engraving program.",
+    "license": "NOASSERTION",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-17"
+  },
+  {
+    "repo": "musescore/MuseScore",
+    "category": "score",
+    "description": "Open-source music notation software.",
+    "license": "NOASSERTION",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-16"
+  },
+  {
+    "repo": "opensheetmusicdisplay/opensheetmusicdisplay",
+    "category": "score",
+    "description": "Render MusicXML in the browser.",
+    "license": "BSD-3-Clause",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-15"
+  },
+  {
+    "repo": "BespokeSynth/BespokeSynth",
+    "category": "synth",
+    "description": "Software modular synth for live and experimental music.",
+    "license": "GPL-3.0",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-14"
+  },
+  {
+    "repo": "DISTRHO/Cardinal",
+    "category": "synth",
+    "description": "Virtual modular synthesizer plugin.",
+    "license": "GPL-3.0",
+    "verified": "2026-10-18",
+    "last_commit": "2026-07-28"
+  },
+  {
+    "repo": "surge-synthesizer/surge",
+    "category": "synth",
+    "description": "Free and open-source hybrid synthesizer.",
+    "license": "GPL-3.0",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-16"
+  },
+  {
+    "repo": "VCVRack/Rack",
+    "category": "synth",
+    "description": "Open-source virtual modular synthesizer.",
+    "license": "NOASSERTION",
+    "verified": "2026-10-18",
+    "last_commit": "2025-11-04"
+  }
+]

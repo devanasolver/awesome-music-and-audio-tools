@@ -1,0 +1,54 @@
+{
+ "categories": [
+  {
+   "id": "daw",
+   "title": "DAWs and editors",
+   "anchor": "daws-and-editors",
+   "blurb": "Record, edit and mix."
+  },
+  {
+   "id": "synth",
+   "title": "Synths, samplers and drum machines",
+   "anchor": "synths-samplers-and-drum-machines",
+   "blurb": "Make sounds."
+  },
+  {
+   "id": "plugin",
+   "title": "Plugins and effects",
+   "anchor": "plugins-and-effects",
+   "blurb": "VST3, CLAP and LV2."
+  },
+  {
+   "id": "live",
+   "title": "Live coding and generative music",
+   "anchor": "live-coding-and-generative-music",
+   "blurb": "Code that makes music."
+  },
+  {
+   "id": "ai",
+   "title": "Music and audio AI",
+   "anchor": "music-and-audio-ai",
+   "blurb": "Separation, transcription and generation. Check model licenses."
+  },
+  {
+   "id": "lib",
+   "title": "Audio programming libraries",
+   "anchor": "audio-programming-libraries",
+   "blurb": "DSP and audio I/O."
+  },
+  {
+   "id": "score",
+   "title": "Notation and scores",
+   "anchor": "notation-and-scores",
+   "blurb": "Write and engrave music."
+  },
+  {
+   "id": "podcast",
+   "title": "Podcast and streaming",
+   "anchor": "podcast-and-streaming",
+   "blurb": "Record and publish."
+  }
+ ],
+ "header": "<h1 align=\"center\">Awesome Music and Audio Tools</h1>\n\n<p align=\"center\"><img src=\"assets/banner.png\" alt=\"Awesome Music and Audio Tools\" width=\"100%\"></p>\n\n<p align=\"center\">\n<a href=\"https://awesome.re\"><img src=\"https://awesome.re/badge.svg\" alt=\"Awesome\"></a>\n<img src=\"https://img.shields.io/badge/PRs-welcome-brightgreen\" alt=\"PRs welcome\">\n<img src=\"https://img.shields.io/badge/license-CC0--1.0-blue\" alt=\"License CC0 1.0\">\n<a href=\"https://github.com/devanasolver/awesome-music-and-audio-tools/commits/main\"><img src=\"https://img.shields.io/github/last-commit/devanasolver/awesome-music-and-audio-tools\" alt=\"Last commit\"></a>\n</p>\n\n<p align=\"center\">\n<a href=\"https://github.com/devanasolver\"><img src=\"https://img.shields.io/badge/Follow-@devanasolver-181717?style=for-the-badge&logo=github\" alt=\"Follow on GitHub\"></a>\n<a href=\"https://github.com/devanasolver/awesome-music-and-audio-tools/stargazers\"><img src=\"https://img.shields.io/github/stars/devanasolver/awesome-music-and-audio-tools?style=for-the-badge&logo=github&label=Star%20this%20list\" alt=\"Star this list\"></a>\n<a href=\"https://buymeacoffee.com/isaac49\"><img src=\"https://img.shields.io/badge/Buy%20me%20a%20coffee-isaac49-ffdd00?style=for-the-badge&logo=buymeacoffee&logoColor=black\" alt=\"Buy me a coffee\"></a>\n</p>\n\n> Open-source DAWs, synths, audio editors, plugins, music AI, transcription and audio programming libraries. Every entry shows its license.\n\n**Rules of this list:** every repo exists, is public, is not archived, states a license and has had a commit in the last year. One plain sentence each. Star counts and claims are the authors' own, we did not test every tool. Checked 2026-10-18. See [CONTRIBUTING.md](CONTRIBUTING.md).",
+ "footer": "## How to choose\n\n- **Check sample and model licenses.** Free software does not mean free samples.\n- **Keep project backups.**\n- **Check plugin formats** (VST3, CLAP, AU) against your DAW.\n- **Check the license.**\n\n## Contributing\n\nSee [CONTRIBUTING.md](CONTRIBUTING.md). One entry per pull request, plain words, real sources only.\n\n## About\n\nMaintained by [@devanasolver](https://github.com/devanasolver). Listings follow the rules in CONTRIBUTING.\n\n## Sponsor me\n\nIf this list is useful, [buy me a coffee](https://buymeacoffee.com/isaac49).\n"
+}

@@ -1,0 +1,45 @@
+{
+ "tile_words": [
+  "SYNTH",
+  "MIDI",
+  "STEM",
+  "MIX",
+  "DAW",
+  "PLUGIN",
+  "VST",
+  "WAVE",
+  "TEMPO",
+  "LOOP",
+  "REVERB",
+  "SAMPLE",
+  "MASTER",
+  "TRACK",
+  "PITCH",
+  "CODEC"
+ ],
+ "gradient": [
+  [
+   30,
+   110,
+   200
+  ],
+  [
+   150,
+   60,
+   200
+  ],
+  [
+   235,
+   120,
+   40
+  ]
+ ],
+ "title": [
+  "Music and Audio Tools",
+  ""
+ ],
+ "title_size": 88,
+ "sub1": "DAWS  |  SYNTHS  |  PLUGINS",
+ "sub2": "EDITORS  |  MUSIC AI  |  LIBRARIES",
+ "foot": "Open-source music and audio software, each checked for license and activity"
+}
